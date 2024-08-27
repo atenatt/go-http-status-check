@@ -65,7 +65,3 @@ Status [503] Tempo de carga: [0.234567] URL: [https://www.example.com]
 - **criarListaServidores**: Lê o arquivo CSV de servidores e cria uma lista de estruturas `Server`.
 - **checkServer**: Faz uma requisição HTTP para cada servidor e verifica se ele está respondendo corretamente.
 - **generateDownTime**: Escreve os servidores que estão fora do ar no arquivo de registro.
-
-## Licença
-
-Este projeto é distribuído sob a licença MIT. Consulte o arquivo `LICENSE` para obter mais informações.
